@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋🏻 Hi there, I'm Sinan Nuhoglu
+
+I’m passionate about **Android application development** and **QA testing processes**.
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinannuhoglu)  
 
 <!--
 **sinannuhoglu/sinannuhoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
